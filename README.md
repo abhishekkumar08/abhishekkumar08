@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <a href="https://codepen.io/abhishekkumar08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="abhishekkumar08" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhishek-kumar-dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abhishek-kumar-dev" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:14296739" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="user:14296739" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14296739/abhishek-kumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="user:14296739" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100004341035709" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/profile.php?id=100004341035709" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/_abhishek._.___/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/_abhishek._.___/?hl=en" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/abhishek022kk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhishek022kk" height="30" width="40" /></a>
