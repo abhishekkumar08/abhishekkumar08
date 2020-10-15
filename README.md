@@ -27,7 +27,7 @@
 <a href="https://www.hackerearth.com/@abhishek022kk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@abhishek022kk" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/abhishek022kk/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="abhishek022kk/profile" height="30" width="40" /></a>
 <a href="https://dev.to/thedeveloperhere">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Abhishek Kumar's DEV Profile" height="30" width="30">
+  <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Abhishek Kumar's DEV Profile" height="30" width="40">
 </a>
 </p>
 
