@@ -11,7 +11,7 @@
 I am *Abhishek kumar* 👾 , currently pursuing Bachelor of Technology in Computer Science from Bakhtiyarpur College Of Engineering, Patna.  I am an intermediate developer skilled in C++, Python, Full Stack Development, Javascript and its frameworks❄️. I'm currently focusing on Machine learning📊. I actively participate in competitive coding contests on leetcode, codechef and codeforces <img src="https://www.georgiancollege.ca/wp-content/uploads/lightbulb.gif" width="30">
 
 
-<img align='right' src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" width="400">
+<img align='right' src="https://user-images.githubusercontent.com/59651136/113977552-6133d000-9860-11eb-8e0e-dd697f931273.gif" width="400">
 
 <br>
  <b>Skills: </b>&nbsp;&nbsp;<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="35" height="35"/></a> &nbsp;&nbsp;  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/> </a>&nbsp;&nbsp;
