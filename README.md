@@ -19,7 +19,7 @@ I am *Abhishek kumar* 👾 , currently pursuing Bachelor of Technology in Comput
 
 - 🔭 I’m currently working on **CodeIN** a site where we can get all the info regarding coding contest.<img src="https://ayfaatechnology.com/wp-content/themes/ayfaa-theme/ayfaa/images/home.gif" width="50">
  
-- 🌱 I’m currently learning Angular JS💡
+- 🌱 I’m currently learning React JS💡
 - 👯 I’m looking to collaborate on MERN Stack projects⭐️ 
 - 💬 Ask me about ```React JS```and ```DSA```
 - 📫 Drop a mail: [abhishek022kk@gmail.com](abhishek022kk@gmail.com)
